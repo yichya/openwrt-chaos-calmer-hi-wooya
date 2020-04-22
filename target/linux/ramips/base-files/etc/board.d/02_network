@@ -176,6 +176,9 @@ ramips_setup_interfaces()
 	hg255d | \
 	rt-n14u | \
 	wrtnode | \
+	hiwooya7688 | \
+	hiwooya7628 | \
+	hiwooya7620 | \
 	wt3020 | \
 	ur-326n4g | \
 	zbt-wa05)

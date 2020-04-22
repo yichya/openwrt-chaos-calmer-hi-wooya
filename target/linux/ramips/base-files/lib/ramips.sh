@@ -394,6 +394,15 @@ ramips_board_detect() {
 	*"WRTNODE")
 		name="wrtnode"
 		;;
+	*"Wooya IOT Smart 7688")
+                name="hiwooya7688"
+                ;;
+	*"Wooya IOT Smart 7628")
+                name="hiwooya7628"
+                ;;
+	*"Wooya IOT Smart 7620")
+                name="hiwooya7620"
+                ;;
 	*"Wansview NCS601W")
 		name="ncs601w"
 		;;
